@@ -15,7 +15,7 @@ Para esta implementação foi escolhido as classes grafo split e cordal.
 
 
 ### SP-Cordal
-
+Implementação à partir do algoritmo de reconhecimento de grafos Cordais, baseado no teorema que afirma "Qualquer  grafo  cordal  nao-completo  possui  ao  menos  dois  vertices  simpliciais nao-adjacentes; e todos os vértices de um grafo cordal completo devem ser simpliciais".  
 
 
 ### Referências
