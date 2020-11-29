@@ -9,3 +9,7 @@ propriedade. Os problemas-sanduíche por sua vez, tem o objetivo de responder se
 pertença à classe proposta. O problema grafo-sanduíche pode ser resolvido em tempo polinomial para algumas classes como: grafos split, grafos de limiar, grafos bipartidos e cografos.
 E é NP-completo quando o problema possui a propriedade de ser um grafo cordal, grafo de comparabilidade , grafo de permutação, grafo bipartido cordal , ou grafo cadeia.
 Para esta implementação foi escolhido as classes grafo split e cordal.
+
+
+#SP-Split
+o rpoblemasdfa
