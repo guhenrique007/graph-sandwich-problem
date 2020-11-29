@@ -11,5 +11,5 @@ E é NP-completo quando o problema possui a propriedade de ser um grafo cordal, 
 Para esta implementação foi escolhido as classes grafo split e cordal.
 
 
-#SP-Split
-o rpoblemasdfa
+### SP-Split
+
