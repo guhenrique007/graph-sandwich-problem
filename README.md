@@ -26,6 +26,6 @@ simpliciais não adjacentes.
 
 
 ### Referências
-M. C. Golumbic, Haim Kaplan, R. S. (1993).Algorithms and Complexity of SandwichProblems in Graphs. 790 edition
-Jayme Luiz Szwarcfiter (2018) -	Teoria Computacional De Grafos
+# M. C. Golumbic, Haim Kaplan, R. S. (1993).Algorithms and Complexity of SandwichProblems in Graphs. 790 edition
+# Jayme Luiz Szwarcfiter (2018) -	Teoria Computacional De Grafos
 
