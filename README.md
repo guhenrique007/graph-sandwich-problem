@@ -12,6 +12,8 @@ Para esta implementação foi escolhido as classes grafo split e cordal.
 
 
 ### SP-Split
+Um  grafo-(k,l) ́e  um  grafo  G  que  admite  uma  (k,l)-partic ̧ ̃ao,  quando  seu  conjunto  dev ́ertices  pode  ser  particionado  em  k  conjuntos  independentes  e  <i>l</i>  cliques.
+
 
 
 ### SP-Cordal
