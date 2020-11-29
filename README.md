@@ -1,6 +1,8 @@
 # graph-sandwich-problem
 
 ## Implementação de algoritmos de resolução do problema grafo sanduíche para as classes Split e Cordal
+
+### Problema Sanduíche
 Os problemas-sanduíche surgem como uma
 generalização relaxada dos problemas de reconhecimento. O problema de reconhecimento
 se preocupava em descobrir se um grafo G pertence ou não a uma
@@ -17,7 +19,7 @@ Um  grafo-(<i>k,l</i>) ́e  um  grafo  G  que  admite  uma  (<i>k,l</i>)-partiç
 
 
 ### SP-Cordal
-Implementação à partir do algoritmo de reconhecimento de grafos Cordais, baseado no teorema que afirma "Qualquer  grafo  cordal  não-completo  possui  ao  menos  dois  vertices  simpliciais não-adjacentes; e todos os vértices de um grafo cordal completo devem ser simpliciais".  
+Implementação à partir do algoritmo de reconhecimento de grafos Cordais, baseado no teorema que afirma <i>"Qualquer  grafo  cordal  não-completo  possui  ao  menos  dois  vertices  simpliciais não-adjacentes; e todos os vértices de um grafo cordal completo devem ser simpliciais"</i>.  
 
 
 ### Referências
