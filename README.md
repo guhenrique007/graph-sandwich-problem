@@ -19,9 +19,8 @@ Um  grafo-(<i>k,l</i>) ́e  um  grafo  G  que  admite  uma  (<i>k,l</i>)-partiç
 
 
 ### SP-Cordal
-Implementação à partir do algoritmo de reconhecimento de grafos Cordais, baseado no teorema que afirma <i>"Seja G(V,E) um grafo cordal. Se G é completo. qualquer um de seus
-vértices é simplicial. Se G não é completo, ele contém um par de vértices
-simpliciais não adjacentes.
+Implementação à partir do algoritmo de reconhecimento de grafos Cordais, baseado no teorema que afirma <i>"Um grafo G(V,E) é cordal se e somente se G possuir um esquema de
+eliminação perfeita.
 "</i>.  
 
 
